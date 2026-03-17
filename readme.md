@@ -181,7 +181,7 @@ const sidharth = {
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/choudharysidharth082000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sidharthchoudhary?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
