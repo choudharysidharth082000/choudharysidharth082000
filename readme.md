@@ -113,7 +113,20 @@ const sidharth = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choudharysidharth082000&bg_color=0d1117&color=a177fe&line=a177fe&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<!--
+🐍 SNAKE ANIMATION SETUP (Optional):
+1. Create folder: .github/workflows/ in your profile repo
+2. Add the snake.yml file (included separately)
+3. Go to repo Settings > Actions > General > Workflow permissions
+4. Select "Read and write permissions" and save
+5. Run the workflow manually from Actions tab
+6. Once generated, uncomment below and remove the activity graph above:
 
 <div align="center">
   <picture>
@@ -122,6 +135,7 @@ const sidharth = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/choudharysidharth082000/choudharysidharth082000/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
 
 ---
 
@@ -129,11 +143,22 @@ const sidharth = {
 
 <div align="center">
 
-<a href="https://github.com/choudharysidharth082000/token-swap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=token-swap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
+<a href="https://github.com/choudharysidharth082000/uniswap-blockchain-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=uniswap-blockchain-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
 </a>
-<a href="https://github.com/choudharysidharth082000/crypto-wallet-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=crypto-wallet-extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
+<a href="https://github.com/choudharysidharth082000/Etherium-Wallet-Clone-Chrome-Extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=Etherium-Wallet-Clone-Chrome-Extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/choudharysidharth082000/Netflix-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=Netflix-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
+</a>
+<a href="https://github.com/choudharysidharth082000/Node-Js-Chat-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=choudharysidharth082000&repo=Node-Js-Chat-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE" />
 </a>
 
 </div>
@@ -144,9 +169,10 @@ const sidharth = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Token Swap** | Decentralized exchange & AMM for cross-chain swaps | Moralis, Next.js, Solidity |
-| **Crypto Wallet** | Chrome extension for ERC-20 tokens | Web3.js, Next.js, Material UI |
-| **Netflix Clone** | Streaming platform UI with 15+ components | React, Redux, Firebase |
+| **Uniswap Blockchain App** | Decentralized exchange & AMM for cross-chain swaps (Ethereum & Polygon) | Moralis, Next.js, Solidity |
+| **Ethereum Wallet Extension** | Chrome extension for ERC-20 tokens (MetaMask clone) | Web3.js, React, Material UI |
+| **Netflix Clone** | Streaming platform UI with 15+ components & trailers | React, Redux, Firebase |
+| **Node.js Chat App** | Realtime chatting application | Node.js, Socket.IO |
 
 </details>
 
