@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sidharth%20Choudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Web3%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=110&lines=Building+high-performance+apps+serving+500%2B+clients;Optimizing+for+70%25+performance+gains+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=110&lines=Building+high-performance+apps+serving+500%2B+clients;Optimizing+for+70%25+performance+gains+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
